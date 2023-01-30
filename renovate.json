@@ -16,5 +16,6 @@
     {
       "matchPackagePatterns": ["maven"],
       "labels": ["maven-testlabel"]
+    }
   ]
 }
